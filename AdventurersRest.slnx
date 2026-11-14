@@ -1,5 +1,8 @@
 <Solution>
   <Folder Name="/src/">
     <Project Path="src/AdventurersRest.Api/AdventurersRest.Api.csproj" />
+    <Project Path="src/AdventurersRest.Core/AdventurersRest.Core.csproj" />
+    <Project Path="src/AdventurersRest.Data/AdventurersRest.Data.csproj" />
+    <Project Path="src/AdventurersRest.Core.Tests/AdventurersRest.Core.Tests.csproj" />
   </Folder>
 </Solution>
